@@ -1,2 +1,3 @@
-# bookbot
-a bot that gives stats for books
+#BookBot
+
+BookBot is my first git project!
